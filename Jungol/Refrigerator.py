@@ -1,9 +1,12 @@
 # <<input>>                 # <<output>>
-# 4                         # 2
-# -15 5
+# -15 5                     # 4 
 # -10 36
 # 10 73
 # 27 44
+# 5 21
+# 45 47
+# 6 10
+# -3 2
 
 def getRefrigerator():
     n = int(input())
