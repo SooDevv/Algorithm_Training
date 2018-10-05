@@ -5,11 +5,11 @@ class Solution:
 
     def pushCharacter(self, s):
         self.stack.append(s)
-        return self.stack
+        return None
 
     def enqueueCharacter(self, s):
         self.queue.append(s)
-        return self.stack
+        return None
 
     def popCharacter(self):
         return self.stack.pop()
