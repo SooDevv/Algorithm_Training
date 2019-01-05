@@ -26,4 +26,3 @@ if __name__ == '__main__':
     start = input('시작할 node 입력: ')
     result = bfs(graph, start)
     print(result)
-    print("dd")
