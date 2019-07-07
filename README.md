@@ -7,6 +7,17 @@
 - Language : Python3
 - 1 commit everyday
 
-## Reference
+## Problem solving 
 
-- 점프 투 파이썬
+- 2019.07.07 ~ : leetcode's easy problem solving
+- Difficulty : easy 
+- Topics 
+  - Data structure 
+    - [ ] Array 
+    - [ ] Linked list
+    - [ ] Tree
+    - [ ] Stack
+    - [ ] Queue
+    - [ ] Heap
+  - Algorithm 
+  - Companies coding interview 
